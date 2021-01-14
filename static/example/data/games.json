@@ -1,0 +1,147 @@
+[
+    {
+       "id": 1,
+       "name": "The Witcher 3: Wild Hunt",
+       "slug": "/",
+       "image": "/example/game-1.png",
+       "releaseDate": "2020-06-08T19:39:30.000Z",
+       "genres": [
+          {
+             "id": 1,
+             "name": "Rol",
+             "slug": "/"
+          }
+       ],
+       "platforms": [
+          {
+             "id": 1,
+             "name": "PC",
+             "slug": "/"
+          },
+          {
+             "id": 2,
+             "name": "PS4",
+             "slug": "/"
+          },
+          {
+             "id": 4,
+             "name": "XBOX",
+             "slug": "/"
+          }
+       ]
+    },
+    {
+       "id": 2,
+       "name": "Assassins Creed Syndicate",
+       "slug": "/",
+       "image": "/example/game-2.jpg",
+       "releaseDate": "2020-06-08T19:39:30.000Z",
+       "genres": [
+          {
+             "id": 2,
+             "name": "Acción",
+             "slug": "/"
+          }
+       ],
+       "platforms": [
+          {
+             "id": 1,
+             "name": "PC",
+             "slug": "/"
+          },
+          {
+             "id": 2,
+             "name": "PS4",
+             "slug": "/"
+          },
+          {
+             "id": 3,
+             "name": "XBOX",
+             "slug": "/"
+          }
+       ]
+    },
+    {
+       "id": 3,
+       "name": "Batman Arkham Knight",
+       "slug": "/",
+       "image": "/example/game-3.jpg",
+       "releaseDate": "2020-06-08T19:39:30.000Z",
+       "genres": [
+          {
+             "id": 2,
+             "name": "Acción",
+             "slug": "/"
+          }
+       ],
+       "platforms": [
+          {
+             "id": 1,
+             "name": "PC",
+             "slug": "/"
+          },
+          {
+             "id": 2,
+             "name": "PS4",
+             "slug": "/"
+          },
+          {
+             "id": 3,
+             "name": "XBOX",
+             "slug": "/"
+          }
+       ]
+    },
+    {
+       "id": 4,
+       "name": "Call of Duty Warzone",
+       "slug": "/",
+       "image": "/example/game-4.jpg",
+       "releaseDate": "2020-06-08T19:39:30.000Z",
+       "genres": [
+          {
+             "id": 3,
+             "name": "Shooter",
+             "slug": "/"
+          }
+       ],
+       "platforms": [
+          {
+             "id": 1,
+             "name": "PC",
+             "slug": "/"
+          },
+          {
+             "id": 2,
+             "name": "PS4",
+             "slug": "/"
+          },
+          {
+             "id": 3,
+             "name": "XBOX",
+             "slug": "/"
+          }
+       ]
+    },
+    {
+       "id": 5,
+       "name": "Conqueror's Balde",
+       "slug": "/",
+       "image": "/example/game-5.jpg",
+       "releaseDate": "2020-06-08T19:39:30.000Z",
+       "genres": [
+          {
+             "id": 4,
+             "name": "Estrategia",
+             "slug": "/"
+          }
+       ],
+       "platforms": [
+          {
+             "id": 1,
+             "name": "PC",
+             "slug": "/"
+          }
+       ]
+    }
+ ]

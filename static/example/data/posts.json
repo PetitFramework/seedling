@@ -1,0 +1,141 @@
+[{
+    "id": 1,
+    "title": "El desarrollo de Lords of the Fallen 2 pende de un hilo de nuevo",
+    "slug": "/",
+    "createdAt": "2020-06-08T19:39:30.000Z",
+    "updatedAt": "2020-06-08T19:39:30.000Z",
+    "content": "Content Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "excerpt": "Excerpt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "image": "/example/news-2.jpg",
+    "video": "",
+    "replies": 123,
+    "author": {
+        "id": 1,
+        "name": "El Rey Arturo",
+        "image": "/example/avatar.png",
+        "slug": "/"
+    },
+    "category": {
+        "name": "Noticias",
+        "slug": "/"
+    },
+    "game": {
+        "id": 1,
+        "name": "Lords of the Fallen 2",
+        "image": "/example/news-1.png",
+        "slug": "/"
+    }
+},
+{
+    "id": 2,
+    "title": "Santa Monica Studio celebra sus 20 años con arte de God of War",
+    "slug": "/",
+    "createdAt": "2020-06-08T19:39:30.000Z",
+    "updatedAt": "2020-06-08T19:39:30.000Z",
+    "content": "Content Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "excerpt": "Excerpt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "image": "/example/news-3.jpg",
+    "video": "",
+    "replies": 1204,
+    "author": {
+        "id": 2,
+        "name": "Shaco",
+        "image": "/example/avatar.png",
+        "slug": "/"
+    },
+    "category": {
+        "name": "Reportajes",
+        "slug": "/"
+    },
+    "game": {
+        "id": 2,
+        "name": "God of War",
+        "image": "/example/news-2.png",
+        "slug": "/"
+    }
+},
+{
+    "id": 3,
+    "title": "The Elder Scrolls Online: El contenido Harrowstorm ya está disponible en PC y Mac",
+    "slug": "/",
+    "createdAt": "2020-06-08T19:39:30.000Z",
+    "updatedAt": "2020-06-08T19:39:30.000Z",
+    "content": "Content Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "excerpt": "Excerpt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "image": "/example/news-4.jpg",
+    "video": "https://www.youtube.com/watch?v=PeJ9G77rau4",
+    "replies": 304,
+    "author": {
+        "id": 3,
+        "name": "Rammus",
+        "image": "/example/avatar.png",
+        "slug": "/"
+    },
+    "category": {
+        "name": "Análisis",
+        "slug": "/"
+    },
+    "game": {
+        "id": 3,
+        "name": "The Elder Scrolls Online",
+        "image": "/example/news-2.png",
+        "slug": "/"
+    }
+},
+{
+    "id": 4,
+    "title": "Valve confirma Dota Underlords para el 25 de febrero en PC y móviles",
+    "slug": "/",
+    "createdAt": "2020-06-08T19:39:30.000Z",
+    "updatedAt": "2020-06-08T19:39:30.000Z",
+    "content": "Content Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "excerpt": "Excerpt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "image": "/example/news-5.jpg",
+    "video": "",
+    "replies": 0,
+    "author": {
+        "id": 4,
+        "name": "Amumu",
+        "image": "/example/avatar.png",
+        "slug": "/"
+    },
+    "category": {
+        "name": "Guías",
+        "slug": "/"
+    },
+    "game": {
+        "id": 4,
+        "name": "Dota Underlords",
+        "image": "/example/news-2.png",
+        "slug": "/"
+    }
+},
+{
+    "id": 5,
+    "title": "Days Gone es el juego más vendido de la semana en Japón",
+    "slug": "/",
+    "createdAt": "2020-06-08T19:39:30.000Z",
+    "updatedAt": "2020-06-08T19:39:30.000Z",
+    "content": "Content Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "excerpt": "Excerpt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, minima!",
+    "image": "/example/news-6.jpg",
+    "video": "",
+    "replies": 3,
+    "author": {
+        "id": 5,
+        "name": "Ahri",
+        "image": "/example/avatar.png",
+        "slug": "/"
+    },
+    "category": {
+        "name": "Noticias",
+        "slug": "/"
+    },
+    "game": {
+        "id": 5,
+        "name": "Days Gone",
+        "image": "/example/news-2.png",
+        "slug": "/"
+    }
+}
+]

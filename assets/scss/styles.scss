@@ -1,0 +1,28 @@
+/* -----------------------------------------------------------------------------
+ * CONFIG
+ */
+
+@import "settings/settings";
+@import "tools/tools";
+@import "foundations/foundations";
+@import "root/root";
+
+/* -----------------------------------------------------------------------------
+ * THEMES
+ */
+
+@import "themes/themes";
+
+/* -----------------------------------------------------------------------------
+ * VENDOR
+ */
+
+@import "vendor/vendor";
+
+/* -----------------------------------------------------------------------------
+ * BASE
+ */
+
+@import "generic/generic";
+@import "elements/elements";
+@import "animations/animations";

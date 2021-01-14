@@ -1,0 +1,75 @@
+body {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden auto;
+  background-color: var(--color-bg-two);
+  color: var(--color-text);
+
+  &.is-scroll-locked {
+    overflow: hidden;
+  }
+
+  &.is-scroll-locked-mobile {
+    @include breakpoint($bp down) {
+      overflow: hidden;
+    }
+  }
+
+  &::after {
+    content: "";
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0);
+    z-index: var(--z-index-bishop);
+    transition: opacity 0.3s, transform 0.3s;
+  }
+
+  &.has-overlay {
+    &::after {
+      opacity: 1;
+      pointer-events: auto;
+      transform: scale(1);
+    }
+
+    &--mobile {
+      &::after {
+        @include breakpoint($bp) {
+          display: none;
+        }
+      }
+    }
+
+    &--desktop {
+      &::after {
+        @include breakpoint($bp down) {
+          display: none;
+        }
+      }
+    }
+
+    &--king {
+      &::after {
+        z-index: var(--z-index-king);
+      }
+    }
+
+    &--queen {
+      &::after {
+        z-index: var(--z-index-queen);
+      }
+    }
+
+    &--rook {
+      &::after {
+        z-index: var(--z-index-rook);
+      }
+    }
+  }
+}
